@@ -1,0 +1,3 @@
+# Don't track dependencies
+node_modules
+.env
